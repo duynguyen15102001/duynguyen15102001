@@ -1,12 +1,11 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Thien Duy</h1>
 <p align="center">
-  <h3 align="center">A java developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A java developer from Vietnam </h3>
 </p>
 - ✍ I'm a student of: [Da Nang city University of Technology and Education].
 <br />
-####
-
+<br></br>
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
