@@ -3,11 +3,7 @@
 <p align="center">
   <h3 align="center">A java developer from Vietnam 🇻🇳 </h3>
 </p>
-
-
 - ✍ I'm a student of: [Da Nang city University of Technology and Education].
-
-
 <br />
 
 ## Skills:
