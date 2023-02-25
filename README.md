@@ -6,8 +6,6 @@
 - ✍ I'm a student of: [Da Nang city University of Technology and Education].
 <br />
 
-## Skills:
-
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
